@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Meta",
+    "product": "Instagram",
+    "location": "Manhattan, NY",
+    "job-title": "Software Engineer",
+    "logo": "ig-logo.png",
+    "bullets": [
+      "Attended Metas Engineering bootcamp where I worked on small tasks for various Meta products such as Facebook & Oculus to try different tech stacks and explore different opportunities within Meta.",
+      "Contributed to Instagrams Design System creating components for their iOS, Android, and Web platforms using React, native development frameworks, and cross platform mobile frameworks"
+    ]
+  },
+  {
+    "company": "Vimeo",
+    "product": "Vimeo - OTT",
+    "location": "Manhattan, NY",
+    "job-title": "Software Engineer II",
+    "logo": "vimeo-logo.png",
+    "bullets": [
+      "Contributed to a Ruby on Rails application that allows content creators to create their own subscription-based streaming service similar to Netflix or Hulu (marthastewart.tv, criterionchannel.com, and dropout.tv)",
+      "Lead several major projects that improved both seller and buyer satisfaction",
+      "Mentored an intern and new engineers on the team to set them up for success on the team and their careers",
+      "Supported in-app purchases with the Google Play Store, Roku store, and the Apple App Store",
+      "Worked with legacy versions of Rails and supporting gems, and upgraded the repository towards modern versions of Rails",
+      "Migrated several web pages from legacy ERB templates to React, which allowed the team to use newer libraries and other internal Vimeo tools"
+    ]
+  },
+  {
+    "company": "Medidata Solutions",
+    "product": "Rave RTSM",
+    "location": "Manhattan, NY",
+    "job-title": "Software Engineer",
+    "logo": "medidata-logo.png",
+    "bullets": [
+      "Contributed to a web application as a full-stack engineer using a Ruby on Rails backend, and HAML & React frontend",
+      "Maintained 100% backend code coverage with rspec and 100% frontend code coverage with jest.",
+      "Met with Business Analysts, Test Engineers, and a Lead Software Engineer to plan new features before beginning engineering work",
+      "Worked closely with test engineers to investigate and fix bugs on the application",
+      "Assisted the customer service team with customer issue investigations and manual data changes if necessary."
+    ]
+  }
+]

@@ -1,4 +1,8 @@
 .App {
-  background-color: yellow;
   height: 100vh;
+  margin: 0;
+}
+
+body {
+  font-family: "Trebuchet MS", sans-serif;
 }
