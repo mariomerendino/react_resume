@@ -1,5 +1,5 @@
 const Experience = (props) => {
-  return(
+  return (
     <div key={props.idx}>
       <div className="header">
         <img src={`/${props.experience.logo}`} alt="Company Logo" />
@@ -15,6 +15,6 @@ const Experience = (props) => {
       </ul>
     </div>
   );
-}
+};
 
 export default Experience;

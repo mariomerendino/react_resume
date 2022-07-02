@@ -7,12 +7,7 @@ const WorkExperience = () => {
       <h3>Work Experience</h3>
       <div>
         {WorkExp.map((experience, idx) => {
-          return (
-            <Experience
-              experience={experience}
-              idx={idx}
-            />
-          );
+          return <Experience experience={experience} idx={idx} />;
         })}
       </div>
     </div>
